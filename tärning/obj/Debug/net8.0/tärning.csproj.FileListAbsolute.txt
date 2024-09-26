@@ -1,0 +1,14 @@
+C:\Users\kevin.lustych\source\repos\tärning\tärning\bin\Debug\net8.0\tärning.exe
+C:\Users\kevin.lustych\source\repos\tärning\tärning\bin\Debug\net8.0\tärning.deps.json
+C:\Users\kevin.lustych\source\repos\tärning\tärning\bin\Debug\net8.0\tärning.runtimeconfig.json
+C:\Users\kevin.lustych\source\repos\tärning\tärning\bin\Debug\net8.0\tärning.dll
+C:\Users\kevin.lustych\source\repos\tärning\tärning\bin\Debug\net8.0\tärning.pdb
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.AssemblyInfoInputs.cache
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.AssemblyInfo.cs
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.csproj.CoreCompileInputs.cache
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.dll
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\refint\tärning.dll
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.pdb
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\tärning.genruntimeconfig.cache
+C:\Users\kevin.lustych\source\repos\tärning\tärning\obj\Debug\net8.0\ref\tärning.dll

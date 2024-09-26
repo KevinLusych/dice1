@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin.lustych\\source\\repos\\t\u00E4rning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5B198A3-8E98-49F4-9654-47E4CA62DCE3}|t\u00E4rning\\t\u00E4rning.csproj|c:\\users\\kevin.lustych\\source\\repos\\t\u00E4rning\\t\u00E4rning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5B198A3-8E98-49F4-9654-47E4CA62DCE3}|t\u00E4rning\\t\u00E4rning.csproj|solutionrelative:t\u00E4rning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin.lustych\\source\\repos\\t\u00E4rning\\t\u00E4rning\\Program.cs",
+              "RelativeDocumentMoniker": "t\u00E4rning\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin.lustych\\source\\repos\\t\u00E4rning\\t\u00E4rning\\Program.cs",
+              "RelativeToolTip": "t\u00E4rning\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwBgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:26:19.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
